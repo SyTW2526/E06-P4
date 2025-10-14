@@ -60,3 +60,4 @@ When both applications are built and running, open your browser on http://localh
 ## Disclaimer
 
 Use at your own risk; not a supported MongoDB product
+Sección añadida tras feedback
