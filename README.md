@@ -10,8 +10,6 @@ Set your [Atlas URI connection string](https://docs.atlas.mongodb.com/getting-st
 ATLAS_URI=mongodb+srv://<username>:<password>@sandbox.jadwj.mongodb.net/meanStackExample?retryWrites=true&w=majority
 ```
 
-Start the server and client applications:
-
 ```
 npm start
 ```
