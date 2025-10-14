@@ -40,7 +40,6 @@ export function app(): express.Express {
       .catch((err) => next(err));
   });
 
-  return server;
 }
 
 function run(): void {
